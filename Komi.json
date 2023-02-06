@@ -4,5 +4,28 @@
   "artist": "Tomohito Oda",
   "author": "Tomohito Oda",
   "cover": "https://media.discordapp.net/attachments/1072102656883040267/1072107096499290152/th.png",
-  "chapters": {}
+  "chapters": {
+    "389": {
+      "title": "389",
+      "volume": "",
+      "last_updated": "1675680684",
+      "groups": {
+        "komi-sansundertale": [
+          "https://media.discordapp.net/attachments/1072107311604179005/1072107455812751440/001.png",
+          "https://media.discordapp.net/attachments/1072107311604179005/1072107456160866335/002.png",
+          "https://media.discordapp.net/attachments/1072107311604179005/1072107456538361876/003.png",
+          "https://media.discordapp.net/attachments/1072107311604179005/1072107456974561300/004.png",
+          "https://media.discordapp.net/attachments/1072107311604179005/1072107457398194226/005.png",
+          "https://media.discordapp.net/attachments/1072107311604179005/1072107457775685713/006.png",
+          "https://media.discordapp.net/attachments/1072107311604179005/1072107458534842418/007.png",
+          "https://media.discordapp.net/attachments/1072107311604179005/1072107458895560754/008.png",
+          "https://media.discordapp.net/attachments/1072107311604179005/1072107459193360494/009.png",
+          "https://media.discordapp.net/attachments/1072107311604179005/1072107459528892416/010.png",
+          "https://media.discordapp.net/attachments/1072107311604179005/1072107503296446474/011.png",
+          "https://media.discordapp.net/attachments/1072107311604179005/1072107503745249310/012.png",
+          "https://media.discordapp.net/attachments/1072107311604179005/1072107504173056050/translator_note_v2.png"
+        ]
+      }
+    }
+  }
 }
